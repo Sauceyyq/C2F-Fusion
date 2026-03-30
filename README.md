@@ -1,4 +1,4 @@
-# A Texture-Semantic Collaborative Progressive Refinement Fusion Network of Infrared and Visible Images for High-Level Vision Tasks
+# A Texture-Semantic Collaborative Progressive Refinement Infrared and Visible Image Fusion Network for High-Level Vision Tasks
 
 * * *
 
