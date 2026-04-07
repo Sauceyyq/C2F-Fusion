@@ -15,7 +15,6 @@
 </div>
 
 > [!NOTE]  
-> This repository currently contains the supplementary material and code implementation for the paper.
 > 
 > 🚀 **The full source code, datasets, and pretrained models will be made publicly available upon acceptance.**
 
