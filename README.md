@@ -5,7 +5,6 @@
 <div>
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Paper-Coming_Soon-blue?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" /></a>
 </div>
 
 <br>
@@ -48,8 +47,5 @@ To address these challenges, we propose **PRCFusion**, a fusion network that est
 ## 🚀 Getting Started (Coming Soon)
 
 Instructions for environment setup, dataset preparation, and evaluation will be updated here.
-
-- [ ] Release inference code and pre-trained models.
-- [ ] Release training code.
 
 ---
