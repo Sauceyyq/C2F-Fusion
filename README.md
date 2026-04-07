@@ -1,4 +1,4 @@
-<img width="7881" height="3288" alt="Work" src="https://github.com/user-attachments/assets/c7b93fb5-a6c1-4010-b09d-f5914dea67e7" /># Towards High-Level Vision Tasks: A Texture-Semantic Collaborative Network for Infrared and Visible Image Fusion
+Towards High-Level Vision Tasks: A Texture-Semantic Collaborative Network for Infrared and Visible Image Fusion
 
 * * *
 
@@ -11,7 +11,7 @@
 * * *
 * * *
 🧠 Architecture
-.\Work.png
+<img width="7881" height="3288" alt="Work" src="https://github.com/user-attachments/assets/c7b93fb5-a6c1-4010-b09d-f5914dea67e7" /># 
 * * *
 📖 Abstract
 
