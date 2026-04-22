@@ -9,7 +9,7 @@
 
 <br>
 
-**Official PyTorch implementation of PRCFusion.**
+**Official PyTorch implementation of PRFusion.**
 
 </div>
 
