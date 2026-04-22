@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Towards High-Level Vision Tasks: A Texture-Semantic Collaborative Network for Infrared and Visible Image Fusion</h1>
+<h1>PRFusion: A Task-Driven Progressive Refinement Network for Infrared and Visible Image Fusion</h1>
 
 <div>
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
@@ -21,9 +21,7 @@
 
 ## 📖 Abstract
 
-Infrared and visible image fusion aims to integrate complementary information from distinct modalities to enhance scene representation. Although deep learning-based methods have achieved significant progress, most existing approaches are constrained by a single-stage reconstruction paradigm. 
-
-To address these challenges, we propose **PRCFusion**, a fusion network that establishes a multi-task framework via a progressive refinement cascade mechanism.
+Infrared and visible image fusion integrates complementary multimodal features to preserve structural details and highlight salient targets, thereby facilitating downstream vision tasks. However, existing task-oriented methods face two major limitations: insufficient cross-modal complementary aggregation for key target regions, and gradient interference between tasks during joint optimization. To address these challenges, we propose PRFusion, a progressive refinement image fusion network collaborative with segmentation tasks, aimed at enhancing the depiction of key target regions and improving support for downstream perception.
 
 ### ✨ Key Contributions
 
